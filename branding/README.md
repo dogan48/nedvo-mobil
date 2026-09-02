@@ -1,31 +1,33 @@
-# NEDVO Logo — Önizlemeler
+# NEDVO Logo — Referans tarzında
 
-## Yeni (Pro) — önerilen
+Instagram, Twitter, GitHub, Telegram, **Bend** logolarının ortak dili:
+**tek siluet + düz zemin + 2 renk + küçük boyutta okunur.**
 
-Yöntem değişti: clipart/AI yerine **minimal lettermark** — eğri diagonal yol metaforu, marka renkleri `#0B0D10` + `#00D492`.
+| | PNG | Referans | Açıklama |
+|---|-----|----------|----------|
+| **A** | [a_charge_telegram.png](./refs/a_charge_telegram.png) | Telegram | Yeşil daire + EV şarj silueti |
+| **B** | [b_hub_instagram.png](./refs/b_hub_instagram.png) | Instagram | Kamera düzeni → tekerlek/hub |
+| **C** | [c_network_github.png](./refs/c_network_github.png) | GitHub | 3 nokta ağı — topluluk |
+| **D** | [d_send_social.png](./refs/d_send_social.png) | Telegram | Uçak — mesajlaşma/sosyal |
+| **E** | [e_solid_n.png](./refs/e_solid_n.png) | Twitter | Dolu N harfi, daire zemin |
+| **F** | [f_network_dark.png](./refs/f_network_dark.png) | GitHub | Koyu zemin, ağ merkezi |
+| **G** | [g_charge_ai.png](./refs/g_charge_ai.png) | Telegram | AI render, detaylı şarj |
 
-| | PNG | SVG | Açıklama |
-|---|-----|-----|----------|
-| **1** Road N (koyu) | [nedvo_logo_pro_dark.png](./pro/nedvo_logo_pro_dark.png) | [nedvo_logo_pro_dark.svg](./pro/nedvo_logo_pro_dark.svg) | Koyu zemin, yeşil N — ana öneri |
-| **2** Road N (yeşil) | [nedvo_logo_pro_green.png](./pro/nedvo_logo_pro_green.png) | [nedvo_logo_pro_green.svg](./pro/nedvo_logo_pro_green.svg) | Yeşil zemin, koyu N — alternatif |
-| **3** AI render | [nedvo_logo_road_n.png](./pro/nedvo_logo_road_n.png) | — | AI üretimi, vektörle aynı konsept |
+## Doğrudan PNG linkleri
 
-### Doğrudan PNG linkleri (Pro)
-
-- 1: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/pro/nedvo_logo_pro_dark.png
-- 2: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/pro/nedvo_logo_pro_green.png
-- 3: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/pro/nedvo_logo_road_n.png
+- A: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/a_charge_telegram.png
+- B: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/b_hub_instagram.png
+- C: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/c_network_github.png
+- D: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/d_send_social.png
+- E: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/e_solid_n.png
+- F: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/f_network_dark.png
+- G: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/g_charge_ai.png
 
 ---
 
-## Eski seçenekler (E–H)
+## Önceki turlar
 
-| | PNG | SVG |
-|---|-----|-----|
-| **E** Lettermark | [e_lettermark.png](./options/e_lettermark.png) | [e_lettermark.svg](./options/e_lettermark.svg) |
-| **F** Topluluk | [f_community.png](./options/f_community.png) | [f_community.svg](./options/f_community.svg) |
-| **G** Yol + EV | [g_horizon.png](./options/g_horizon.png) | [g_horizon.svg](./options/g_horizon.svg) |
-| **H** Direksiyon | [h_wheel.png](./options/h_wheel.png) | [h_wheel.svg](./options/h_wheel.svg) |
-| **D** Vektör araç | [nedvo_mark.png](./nedvo_mark.png) | [nedvo_mark.svg](./nedvo_mark.svg) |
+- [Pro lettermark (yol N)](./pro/)
+- [Eski seçenekler E–H](./options/)
 
-Beğendiğini yaz (1/2/3 veya E–H) — final logo olarak uygulamaya geçiririm.
+Beğendiğini yaz (**A–G**) — final olarak uygulamaya geçiririm.
