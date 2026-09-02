@@ -1,33 +1,24 @@
-# NEDVO Logo — Referans tarzında
+# NEDVO Logo
 
-Instagram, Twitter, GitHub, Telegram, **Bend** logolarının ortak dili:
-**tek siluet + düz zemin + 2 renk + küçük boyutta okunur.**
+## Aktif logo (v1 — orijinal)
 
-| | PNG | Referans | Açıklama |
-|---|-----|----------|----------|
-| **A** | [a_charge_telegram.png](./refs/a_charge_telegram.png) | Telegram | Yeşil daire + EV şarj silueti |
-| **B** | [b_hub_instagram.png](./refs/b_hub_instagram.png) | Instagram | Kamera düzeni → tekerlek/hub |
-| **C** | [c_network_github.png](./refs/c_network_github.png) | GitHub | 3 nokta ağı — topluluk |
-| **D** | [d_send_social.png](./refs/d_send_social.png) | Telegram | Uçak — mesajlaşma/sosyal |
-| **E** | [e_solid_n.png](./refs/e_solid_n.png) | Twitter | Dolu N harfi, daire zemin |
-| **F** | [f_network_dark.png](./refs/f_network_dark.png) | GitHub | Koyu zemin, ağ merkezi |
-| **G** | [g_charge_ai.png](./refs/g_charge_ai.png) | Telegram | AI render, detaylı şarj |
+Devre yolları + şimşek + ağ düğümleri. v0.1.1'deki ilk tasarım geri yüklendi.
 
-## Doğrudan PNG linkleri
+| | Dosya |
+|---|-------|
+| **App icon** | [app_icon.png](./app_icon.png) |
+| **Wordmark** | [logo_wordmark.png](./logo_wordmark.png) |
+| **Vektör iyileştirme** | [nedvo_logo_v1_refined.png](./nedvo_logo_v1_refined.png) |
 
-- A: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/a_charge_telegram.png
-- B: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/b_hub_instagram.png
-- C: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/c_network_github.png
-- D: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/d_send_social.png
-- E: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/e_solid_n.png
-- F: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/f_network_dark.png
-- G: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/refs/g_charge_ai.png
+### Doğrudan linkler
+
+- App icon: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/app_icon.png
+- V1 refined: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/nedvo_logo_v1_refined.png
 
 ---
 
-## Önceki turlar
+## Arşiv (beğenilmedi)
 
-- [Pro lettermark (yol N)](./pro/)
-- [Eski seçenekler E–H](./options/)
-
-Beğendiğini yaz (**A–G**) — final olarak uygulamaya geçiririm.
+- [refs/](./refs/) — Instagram/Telegram tarzı denemeler
+- [pro/](./pro/) — Lettermark denemeleri
+- [options/](./options/) — E–H seçenekleri
