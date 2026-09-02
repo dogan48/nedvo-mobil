@@ -1,29 +1,21 @@
-# NEDVO Logo — Yeni yön (E–H)
+# NEDVO Logo — Seçenekler (E–H)
 
-Önceki AI logoları kaldırıldı. Bunlar **elle çizilmiş vektör** — clipart değil, tam kontrol.
+PNG önizleme — tarayıcıda doğrudan açılır.
 
-| | Dosya | Konsept |
-|---|--------|---------|
-| **E** | [e_lettermark.svg](./options/e_lettermark.svg) | Sadece **N** lettermark — yeşil kare, premium app store stili |
-| **F** | [f_community.svg](./options/f_community.svg) | İki kesişen daire = **topluluk** + yol çizgisi |
-| **G** | [g_horizon.svg](./options/g_horizon.svg) | **Yol ufku** + EV kapsül + hub noktası |
-| **H** | [h_wheel.svg](./options/h_wheel.svg) | **Direksiyon** + 3 topluluk noktası |
+| | PNG | SVG |
+|---|-----|-----|
+| **E** Lettermark | [e_lettermark.png](./options/e_lettermark.png) | [e_lettermark.svg](./options/e_lettermark.svg) |
+| **F** Topluluk | [f_community.png](./options/f_community.png) | [f_community.svg](./options/f_community.svg) |
+| **G** Yol + EV | [g_horizon.png](./options/g_horizon.png) | [g_horizon.svg](./options/g_horizon.svg) |
+| **H** Direksiyon | [h_wheel.png](./options/h_wheel.png) | [h_wheel.svg](./options/h_wheel.svg) |
+| **D** Vektör araç | [nedvo_mark.png](./nedvo_mark.png) | [nedvo_mark.svg](./nedvo_mark.svg) |
 
-## Doğrudan linkler (tarayıcıda aç)
+## Doğrudan PNG linkleri
 
-- E: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/e_lettermark.svg
-- F: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/f_community.svg
-- G: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/g_horizon.svg
-- H: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/h_wheel.svg
+- E: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/e_lettermark.png
+- F: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/f_community.png
+- G: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/g_horizon.png
+- H: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/h_wheel.png
+- D: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/nedvo_mark.png
 
----
-
-**E** en sade ve profesyonel (Tesla/Stripe gibi lettermark).  
-**F/H** sosyal ağ vurgusu daha güçlü.  
-**G** araç + yol + topluluk dengesi.
-
-Beğendiğini yaz veya referans gönder (hangi uygulamanın logosunu seviyorsun?) — ona göre tek bir final logo çıkarırım.
-
-## Eski seçenekler (artık önerilmiyor)
-
-A/B/C/D ve clipart versiyonlar `branding/` kökünde duruyor; yeni yön E–H.
+Beğendiğini yaz (E/F/G/H/D) — final logo olarak uygulamaya geçiririm.
