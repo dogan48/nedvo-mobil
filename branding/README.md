@@ -1,21 +1,26 @@
-# NEDVO Branding
+# NEDVO Logo — Seçenekler
 
-EV sahipleri sosyal ağı — logo önizleme (APK gerekmez).
+Önceki clipart logo kaldırıldı. Aşağıdaki 4 yönden birini seç — APK gerekmez.
 
-| Dosya | Açıklama | Önizleme |
-|-------|----------|----------|
-| app_icon.png | Ana logo — araç + şehir + topluluk | [Görüntüle](./app_icon.png) |
-| app_icon_alt.png | Alternatif — bağlantılı EV ön görünüm | [Görüntüle](./app_icon_alt.png) |
+## Önerilen: Vektör (D)
+
+Elle tasarlanmış, ölçeklenebilir — araç profili + topluluk noktaları.
+
+- [nedvo_mark.svg](./nedvo_mark.svg) — tarayıcıda aç
+
+## AI taslakları
+
+| | Dosya | Stil |
+|---|--------|------|
+| **A** | [option_a_road_n.png](./option_a_road_n.png) | Soyut yol/N monogram + hub noktası |
+| **B** | [option_b_line_car.png](./option_b_line_car.png) | İnce çizgi EV profili + 3 nokta (premium) |
+| **C** | [option_c_ev_grille.png](./option_c_ev_grille.png) | EV ön ışık barları + bağlantı |
 
 ## Doğrudan linkler
 
-- **Ana logo:** https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/app_icon.png
-- **Alternatif:** https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/app_icon_alt.png
+- A: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_a_road_n.png
+- B: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_b_line_car.png
+- C: https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_c_ev_grille.png
+- D (SVG): https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/nedvo_mark.svg
 
-## Konsept
-
-- **Araç** — EV silueti (garajın merkezi)
-- **Şehir** — yerel topluluk / şehirdeki sürücüler
-- **Bağlı insanlar** — sosyal ağ, topluluklar, mesajlaşma
-
-Renkler: `#00D492` (electric) · `#0B0D10` (dark)
+Hangisini beğenirsen yaz (A/B/C/D veya “başka yön”) — onu uygulamaya ve launcher icon’a geçiririm.

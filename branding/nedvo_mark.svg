@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B0D10"/>
+  <!-- Community arc -->
+  <path d="M176 148 Q256 88 336 148" stroke="#00D492" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="176" cy="148" r="14" fill="#00D492"/>
+  <circle cx="256" cy="108" r="14" fill="#00D492"/>
+  <circle cx="336" cy="148" r="14" fill="#00D492"/>
+  <!-- EV profile  single stroke -->
+  <path
+    d="M128 328
+       Q128 296 156 284
+       L196 268
+       Q214 248 248 244
+       L312 244
+       Q348 248 364 268
+       L392 278
+       Q420 288 420 318
+       L420 336
+       Q420 352 404 352
+       L108 352
+       Q92 352 92 336
+       L92 328
+       Q92 312 108 312
+       L128 312
+       Z"
+    stroke="#00D492"
+    stroke-width="12"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <!-- Wheel hints -->
+  <circle cx="168" cy="352" r="28" stroke="#00D492" stroke-width="10" fill="none"/>
+  <circle cx="344" cy="352" r="28" stroke="#00D492" stroke-width="10" fill="none"/>
+</svg>
