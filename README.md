@@ -2,14 +2,13 @@
 
 Elektrikli araç sahiplerinin dijital yaşam alanı — Flutter mobil uygulama.
 
-## Logo — seçenekleri incele
+## Logo — PNG önizleme
 
-Clipart logo kaldırıldı. APK indirmeden 4 yeni yön:
-
-- [A — soyut yol/N](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_a_road_n.png)
-- [B — çizgi EV + topluluk](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_b_line_car.png) *(önerilen AI)*
-- [C — EV ışık barları](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/option_c_ev_grille.png)
-- [D — vektör SVG](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/nedvo_mark.svg) *(önerilen vektör)*
+- [E — lettermark](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/e_lettermark.png)
+- [F — topluluk](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/f_community.png)
+- [G — yol + EV](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/g_horizon.png)
+- [H — direksiyon](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/options/h_wheel.png)
+- [D — vektör araç](https://raw.githubusercontent.com/dogan48/nedvo-mobil/main/branding/nedvo_mark.png)
 
 [Branding klasörü](./branding/)
 
