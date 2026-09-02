@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0B0D10"/>
+  <!-- Steering wheel abstract = drive + control -->
+  <circle cx="256" cy="256" r="120" stroke="#00D492" stroke-width="14"/>
+  <circle cx="256" cy="256" r="28" fill="#00D492"/>
+  <path d="M256 136v56M256 320v56M136 256h56M320 256h56" stroke="#00D492" stroke-width="14" stroke-linecap="round"/>
+  <!-- Three community dots on upper arc -->
+  <circle cx="196" cy="176" r="12" fill="#00D492"/>
+  <circle cx="256" cy="152" r="12" fill="#00D492"/>
+  <circle cx="316" cy="176" r="12" fill="#00D492"/>
+</svg>
